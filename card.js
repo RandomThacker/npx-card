@@ -60,14 +60,17 @@ const me = boxen(
         `${data.labelLinkedin}  ${data.linkedin}`,
         ``,
         `${chalk.bold(
-            "  Hello World! I'm Aryan, a final year btech student "
+            "  Hello World! I'm Aryan, a final year student "
         )}`,
         `${chalk.bold("  Full Stack Web Developer with a expertise on")}`,
         `${chalk.bold(
             "  frontend developement with React Js and Next Js"
         )}`,
         `${chalk.bold(
-            "  Got a project? Hit me over email and let's catch up over coffee"
+            "  Got a project? Hit me over email and let's catch "
+        )}`,
+        `${chalk.bold(
+            "  up over coffee"
         )}`
     ].join("\n"),
     {
@@ -75,7 +78,7 @@ const me = boxen(
         float: 'center',
         padding: 1,
         borderStyle: "single",
-        borderColor: "blue"
+        borderColor: "red"
     }
 );
 
