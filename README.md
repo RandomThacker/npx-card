@@ -2,7 +2,7 @@
 
 Open your terminal and hit 
 ```bash
-npx aryan
+npx aryanthacker
 ```
 
 ### If you fork this repo then do star <a href="https://github.com/anmol098/npx_card">Anmol Singh's Repo</a> too. It's his project, so credit him for his work.
@@ -20,7 +20,7 @@ npx aryan
    ```bash
       node card.js
    ```
- - Change the "name" in `package.json`. Make sure it is same as your npm username
+ - Change the "name" in `package.json`. Make sure it is same as your "npm" username
  - Change the information according to you in `card.js` file. 
  - Make sure you have created an account on <a href="https://www.npmjs.com/">npmjs</a>
  - Login on npm if you are not
