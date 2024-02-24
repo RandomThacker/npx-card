@@ -5,7 +5,8 @@ Open your terminal and hit 👇
 npx aryanthacker
 ```
 
-![Untitleddesign3-ezgif com-video-to-gif-converter](https://github.com/RandomThacker/npx-card/assets/141705990/0f789836-768e-4787-878b-472838bc2e62)
+![Untitled design (3)](https://github.com/RandomThacker/npx-card/assets/141705990/693f05ff-85fb-47a9-9417-a0ec7da71477)
+
 
 ## Installation.
 
