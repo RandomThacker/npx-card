@@ -11,7 +11,7 @@ npx aryan
 
  - Clone the repo
    ```bash
-      git clone https://github.com/atpug22/npx-card.git
+      https://github.com/RandomThacker/npx-card.git
       cd npx-card
       npm install
    ```
