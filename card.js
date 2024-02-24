@@ -42,11 +42,15 @@ const data = {
     website: chalk.hex('#2B65EC')("https://www.aryanthacker.tech/"),
     github: chalk.hex('#2B65EC')("https://github.com/RandomThacker"),
     linkedin: chalk.hex('#2B65EC')("https://www.linkedin.com/in/aryan-thacker/"),
+    email: chalk.hex('#2B65EC')("thackeraryan.dev@gmail.com"),
+
 
     labelFact: chalk.hex('#FF6262').bold(""),
     labelWebsite: chalk.hex('#EAC117').bold("        Website:"),
     labelGitHub: chalk.hex('#EAC117').bold("        GitHub:"),
     labelLinkedin: chalk.hex('#EAC117').bold("        Linkedin:"),
+    labelEmail: chalk.hex('#EAC117').bold("        Email:"),
+
 };
 
 const me = boxen(
@@ -58,6 +62,8 @@ const me = boxen(
         `${data.labelWebsite}   ${data.website}`,
         `${data.labelGitHub}    ${data.github}`,
         `${data.labelLinkedin}  ${data.linkedin}`,
+        `${data.labelEmail}     ${data.email}`,
+
         ``,
         `${chalk.bold(
             "  Hello World! I'm Aryan, a final year student "
