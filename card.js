@@ -21,12 +21,12 @@ const questions = [
             {
                 name: `Send an ${chalk.bold("email")}?`,
                 value: () => {
-                    open("mailto:aryaman.gupta.met19@iitbhu.ac.in");
+                    open("mailto:thackeraryan.dev@gmail.com");
                     console.log("\nLooking forward to hearing your message and replying to you!\n");
                 }
             },
             {
-                name: "Exit",
+                name: "Just quit.",
                 value: () => {
                     console.log("Good Bye, See ya soon!\n");
                 }
@@ -60,14 +60,14 @@ const me = boxen(
         `${data.labelLinkedin}  ${data.linkedin}`,
         ``,
         `${chalk.bold(
-            "  Hello! I'm Aryaman, Junior Undergrad from IIT BHU "
+            "  Hello World! I'm Aryan, a final year btech student "
         )}`,
-        `${chalk.bold("  Full Stack Web Developer from India, and currently")}`,
+        `${chalk.bold("  Full Stack Web Developer with a expertise on")}`,
         `${chalk.bold(
-            "  focussed on Competitive Programming, and excited learner"
+            "  frontend developement with React Js and Next Js"
         )}`,
         `${chalk.bold(
-            "  for new things. Send me an email if you want to collab!"
+            "  Got a project? Hit me over email and let's catch up over coffee"
         )}`
     ].join("\n"),
     {
