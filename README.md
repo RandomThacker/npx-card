@@ -2,16 +2,10 @@
 
 Open your terminal and hit 
 ```bash
-npx aryaman
+npx aryan
 ```
 
-### If You are forking this repo then do star <a href="https://github.com/anmol098/npx_card">Anmol Singh's Repo</a>, as it is his Project so credit him for his efforts.
-
-
-## Prequistes 
-
- - <a href="https://www.npmjs.com/">npm</a>
- - <a href="https://nodejs.org/en/">node.js</a>
+### If you fork this repo then do star <a href="https://github.com/anmol098/npx_card">Anmol Singh's Repo</a> too. It's his project, so credit him for his work.
 
 ## Installation.
 
@@ -26,7 +20,7 @@ npx aryaman
    ```bash
       node card.js
    ```
- - Change the "name" in `package.json` 
+ - Change the "name" in `package.json`. Make sure it is same as your npm username
  - Change the information according to you in `card.js` file. 
  - Make sure you have created an account on <a href="https://www.npmjs.com/">npmjs</a>
  - Login on npm if you are not
