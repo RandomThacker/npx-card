@@ -1,6 +1,6 @@
 # npx-card
 
-Open your terminal and hit 
+Open your terminal and hit 👇
 ```bash
 npx aryanthacker
 ```
