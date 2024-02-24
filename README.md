@@ -5,7 +5,7 @@ Open your terminal and hit
 npx aryanthacker
 ```
 
-### If you fork this repo then do star <a href="https://github.com/anmol098/npx_card">Anmol Singh's Repo</a> too. It's his project, so credit him for his work.
+![Untitleddesign3-ezgif com-video-to-gif-converter](https://github.com/RandomThacker/npx-card/assets/141705990/0f789836-768e-4787-878b-472838bc2e62)
 
 ## Installation.
 
@@ -37,3 +37,6 @@ npx aryanthacker
     ```bash
       npx your-package-name
     ```
+
+### If you fork this repo then do star <a href="https://github.com/anmol098/npx_card">Anmol Singh's Repo</a> too. It's his project, so credit him for his work.
+
